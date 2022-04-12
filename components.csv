@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"USlave, UMaster",2," Arduino Uno R3"
+"D12, D11, D10, D9, D8, D7, D6, D5, D4, D3, D2, D1",12,"Red LED"
+"R360",1,"1 kΩ Resistor"
+"Rpot2",1,"250 kΩ Potentiometer"
+"Meter1",1,"Voltage Multimeter"
